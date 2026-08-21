@@ -21,7 +21,7 @@
 #include <DallasTemperature.h>
 
 // ---------- Налаштування Wi-Fi ----------
-const char* ssid     = "Asus";
+const char* ssid     = "ASUS";
 const char* password = "1135432906";
 
 // ---------- Налаштування датчика ----------
